@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SearchViewOnActionBar</string>
+    <string-array name="country_information">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Paksthan</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Meyanmar</item>
+        <item>Kashmir</item>
+        <item>Afgansthan</item>
+        <item>Iraq</item>
+        <item>Iran</item>
+        <item>Algeria</item>
+        <item>Kajasthan</item>
+        <item>Seria</item>
+        <item>Poland</item>
+        <item>Germany</item>
+        <item>France</item>
+
+    </string-array>
+
+</resources>
